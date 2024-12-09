@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css"/>
+<title> OLYMPIQUE DE MARSEILLE, A JAMAIS LES PREMIERS !!! </title>
+<meta charset="UTF-8">
+</head>
+
+<body>
+<h1> Le seul club français à avoir gagné la Ligue des Champions !!! </h1>
+<a href= "https://fresques.ina.fr/sudorama/fiche-media/00000000057/l-om-remporte-la-ligue-des-champions.html"> Un parcours légendaire </a>
+<p> Beaucoup de clubs ont tenté d'égaler cette performance, sans jamais y parvenir</p>
+<img src= "https://www.google.com/imgres?q=image%20defaite%20psg%20ligue%20des%20champions&imgurl=https%3A%2F%2Fimgresizer.eurosport.com%2Funsafe%2F1200x0%2Ffilters%3Aformat(jpeg)%2Forigin-imgresizer.eurosport.com%2F2020%2F08%2F23%2F2868971-59125428-2560-1440.jpg&imgrefurl=https%3A%2F%2Fwww.eurosport.fr%2Ffootball%2Fligue-des-champions%2F2019-2020%2Fligue-des-champions-psg-bayern-munich-0-1-a-leurs-actes-manques_sto7847923%2Fstory.shtml&docid=r9vdDiQZExZE2M&tbnid=osNmSMAn1vrTVM&vet=12ahUKEwiS86bf4ZuKAxVVdqQEHWryJZcQM3oECBUQAA..i&w=1200&h=675&hcb=2&ved=2ahUKEwiS86bf4ZuKAxVVdqQEHWryJZcQM3oECBUQAA">
+<img src="https://www.google.com/imgres?q=image%20defaite%20psg%20ligue%20des%20champions&imgurl=https%3A%2F%2Fimages.rtl.fr%2F~c%2F2000v2000%2Frtl%2Fwww%2F1343651-kylian-mbappe-a-terre-apres-la-defaite-du-psg-face-a-manchester-united-le-6-mars-2019.jpg&imgrefurl=https%3A%2F%2Fwww.rtl.fr%2Fsport%2Ffootball%2Fpsg-manchester-united-la-main-de-kimpembe-qui-crucifie-7797141923&docid=B0YWXXUAU642tM&tbnid=s0JgrAe62Q8MWM&vet=12ahUKEwiS86bf4ZuKAxVVdqQEHWryJZcQM3oECHgQAA..i&w=1765&h=1177&hcb=2&ved=2ahUKEwiS86bf4ZuKAxVVdqQEHWryJZcQM3oECHgQAA">
+<h2> La relève n'est pas encore assurée, pour le plus grand bonheur du peuple Marseillais </h2>
+<img src="https://www.google.com/imgres?q=victoire%20olympique%20de%20marseille%20supporter&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F1%2F16%2FStade_V%25C3%25A9lodrome_%252820150405%2529.jpg%2F1200px-Stade_V%25C3%25A9lodrome_%252820150405%2529.jpg&imgrefurl=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FSupporters_de_l%2527Olympique_de_Marseille&docid=GBnGdQxYp0Z0cM&tbnid=HLY_e85u9IgYKM&vet=12ahUKEwjp7tWT4puKAxWWVaQEHTrBDwcQM3oECFQQAA..i&w=1200&h=676&hcb=2&ved=2ahUKEwjp7tWT4puKAxWWVaQEHTrBDwcQM3oECFQQAA">
+<img src="https://www.google.com/imgres?q=victoire%20olympique%20de%20marseille%20supporter&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F1%2F16%2FStade_V%25C3%25A9lodrome_%252820150405%2529.jpg%2F1200px-Stade_V%25C3%25A9lodrome_%252820150405%2529.jpg&imgrefurl=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FSupporters_de_l%2527Olympique_de_Marseille&docid=GBnGdQxYp0Z0cM&tbnid=HLY_e85u9IgYKM&vet=12ahUKEwjp7tWT4puKAxWWVaQEHTrBDwcQM3oECFQQAA..i&w=1200&h=676&hcb=2&ved=2ahUKEwjp7tWT4puKAxWWVaQEHTrBDwcQM3oECFQQAA">
+<p> L'éternel rival, le PSG, n'y est pas encore arrivé, et n'y arrivera pas avant longtemps, à ce rythme ;-) </p>
+<img src="https://www.google.com/imgres?q=image%20moquerie&imgurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-photo%2Fportrait-funny-positive-bearded-young-260nw-2366978995.jpg&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Ffr%2Fsearch%2Fmoquerie&docid=mt4e4A4QDpmFtM&tbnid=3tJkxccsfggCMM&vet=12ahUKEwjBxZ_T4puKAxWSAPsDHemJAp0QM3oECH8QAA..i&w=390&h=280&hcb=2&ved=2ahUKEwjBxZ_T4puKAxWSAPsDHemJAp0QM3oECH8QAA">
+</body> 
+</html>
